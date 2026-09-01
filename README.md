@@ -1,3 +1,6 @@
+# How to change the selected item image in .NET MAUI ListView?
+This example demonstrates how to change the selected item image in .NET MAUI ListView.
+
 **[View document in Syncfusion .NET MAUI Knowledge Base](https://www.syncfusion.com/kb/13080/how-to-change-selected-image-in-net-maui-listview-sflistview)**
 
 ## Sample
